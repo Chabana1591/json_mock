@@ -2,7 +2,7 @@
     "header": "SVG Viewer",
     "items": [
         {"id": "Open"},
-        {"id": "OpenNew", "label": "Open New", "list":[{"id":"1", "doc":{"id":"x","menu":[{"curr":"500"]}}]},
+        {"id": "OpenNew", "label": "Open New", "list":[{"id":"1", "doc":{"id":"x","menu":[{"curr":"500"}]}}]},
         null,
         {"id": "ZoomIn", "label": "Zoom In"},
         {"id": "ZoomOut", "label": "Zoom Out"},
